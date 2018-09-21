@@ -9,10 +9,10 @@ Beskid IT Academic Days, Bielsko Biała
 ### 10.01.2018 - "Towards Angular!" \[EN] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vQ73VZPdmng90ENOevgg_IQdfb9TBuCJMIyyiWzdJFUjp8ib_VIqr1Xn4QAbq1yU-rt4SgNr6N-RcmV/pub?start=false&loop=false&delayms=15000)
 WarsawJS, Warszawa
 
-### 22.06.2017 - "Jak spać spokojnie zajmując się front-endem" \[PL]
+### 22.06.2017 - "Jak spać spokojnie zajmując się front-endem" \[PL] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSpeleCnfISugwJuoxZWSygGgtENkMC1s2NMjApx-joK0awKgUHnws3CZ-HeOccNUCRgL9QbkoY3MvE/pub?start=false&loop=false&delayms=10000)
 KrakowJS, Krakow
 
-### 11.05.2017 - "Jak spać spokojnie zajmując się front-endem" \[PL]
+### 11.05.2017 - "Jak spać spokojnie zajmując się front-endem" \[PL] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSpeleCnfISugwJuoxZWSygGgtENkMC1s2NMjApx-joK0awKgUHnws3CZ-HeOccNUCRgL9QbkoY3MvE/pub?start=false&loop=false&delayms=10000)
 WeBB Meetup, Bielsko-Biała
 
 ### 20.10.2016 - "Angular + TypeScript, or where is front-end development going to?" \[EN] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSSgscrmFh4Pb4UX4E8jqkwThh9RUiair8klzu3GcCtVS6qQcnxAtvxak1Rwq8YkYTxu6EeGjo_OOZV/pub?start=false&loop=false&delayms=10000)
