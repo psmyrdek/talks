@@ -18,8 +18,8 @@ WeBB Meetup, Bielsko-Biała
 ### 20.10.2016 - "Angular + TypeScript, or where is front-end development going to?" \[EN] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSSgscrmFh4Pb4UX4E8jqkwThh9RUiair8klzu3GcCtVS6qQcnxAtvxak1Rwq8YkYTxu6EeGjo_OOZV/pub?start=false&loop=false&delayms=10000)
 Chillout Meetup, Gliwice
 
-### 09.03.2016 - "Programowanie nie do końca obiektowe" \[PL]
+### 09.03.2016 - "Programowanie nie do końca obiektowe" \[PL] - [SLIDES](https://www.slideshare.net/PrzemekSmyrdek/notsoobject-oriented-programming)
 Koło naukowe Reset, Bielsko Biała
 
-### 28.10.2014 - "101 sposobów na interfejsy" \[PL]
+### 28.10.2014 - "101 sposobów na interfejsy" \[PL] - [SLIDES](https://www.slideshare.net/PrzemekSmyrdek/interfaces-101)
 Koło naukowe Reset, Bielsko Biała
