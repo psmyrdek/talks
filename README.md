@@ -1,5 +1,8 @@
 # talks
 
+### 15.10.2018 - "Web Components - Are we there yet?" \[EN] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vQ8BvBxGnPwHHLeroB6kt6y20znSQkEDGkkIK3IRpdJk3_gbo2sYoRf6wNQKPt4Xx3jSYBKdhJWL5_2/pub?start=false&loop=false&delayms=10000)
+4Developers, Kraków
+
 ### 17.09.2018 - "Web Components - Are we there yet?" \[EN] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vQ8BvBxGnPwHHLeroB6kt6y20znSQkEDGkkIK3IRpdJk3_gbo2sYoRf6wNQKPt4Xx3jSYBKdhJWL5_2/pub?start=false&loop=false&delayms=10000)
 KrakowJS, Kraków
 
