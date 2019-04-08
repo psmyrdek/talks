@@ -1,6 +1,6 @@
 # talks
 
-### 08.04.2019 - "Once on production, it's not a broken promise"
+### 08.04.2019 - "Once on production, it's not a broken promise" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vTzGwaHXRwJTjY4-OiZ66RxxRgC2DOcP_Rd3f2NdfgXLzD3TtugNWOYPG9BhYOia5-xHfKAR5nZHm2p/pub?start=false&loop=false&delayms=15000)
 4developers, Warsaw
 
 ### 29.11.2018 - "Web Components - Are we there yet?" \[EN] - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vQ8BvBxGnPwHHLeroB6kt6y20znSQkEDGkkIK3IRpdJk3_gbo2sYoRf6wNQKPt4Xx3jSYBKdhJWL5_2/pub?start=false&loop=false&delayms=10000)
