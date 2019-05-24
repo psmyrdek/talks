@@ -1,4 +1,4 @@
-# talks
+# Talks I delivered so far
 
 ### 08.04.2019 - "Once on production, it's not a broken promise" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vTzGwaHXRwJTjY4-OiZ66RxxRgC2DOcP_Rd3f2NdfgXLzD3TtugNWOYPG9BhYOia5-xHfKAR5nZHm2p/pub?start=false&loop=false&delayms=15000)
 4developers, Warsaw
@@ -33,3 +33,7 @@ Koło naukowe Reset, Bielsko Biała
 
 ### 28.10.2014 - "101 sposobów na interfejsy" \[PL] - [SLIDES](https://www.slideshare.net/PrzemekSmyrdek/interfaces-101)
 Koło naukowe Reset, Bielsko Biała
+
+## Writing
+
+Feel invited to my blog - [smyrdek.com](https://smyrdek.com/)!
