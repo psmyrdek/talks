@@ -1,7 +1,7 @@
 # Talks I delivered so far
 
 
-### 04.07.2019 - "Front-End Tooling - Talks, Legends and Myths" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSk6lx0Y5_twMeOZ0gcv-ZafoPaGiD4nNdG5xHE4wIGqmfOVTV7XfbfLqCqr6XPTVxwYn2X68Ujy2bc/pub?start=false&loop=false&delayms=15000)
+### 04.07.2019 - "Front-End Tooling - Tales, Legends and Myths" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSk6lx0Y5_twMeOZ0gcv-ZafoPaGiD4nNdG5xHE4wIGqmfOVTV7XfbfLqCqr6XPTVxwYn2X68Ujy2bc/pub?start=false&loop=false&delayms=15000)
 SmartRecruiters HackerSpace, Kraków
 
 ### 08.04.2019 - "Once on production, it's not a broken promise" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vTzGwaHXRwJTjY4-OiZ66RxxRgC2DOcP_Rd3f2NdfgXLzD3TtugNWOYPG9BhYOia5-xHfKAR5nZHm2p/pub?start=false&loop=false&delayms=15000)
