@@ -1,5 +1,7 @@
 # Talks I delivered so far
 
+### 01.11.2019 - "Once on production, it's not a broken promise"
+ReactiveConf 2019 (Community Stage) - Prague
 
 ### 04.07.2019 - "Front-End Tooling - Tales, Legends and Myths" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSk6lx0Y5_twMeOZ0gcv-ZafoPaGiD4nNdG5xHE4wIGqmfOVTV7XfbfLqCqr6XPTVxwYn2X68Ujy2bc/pub?start=false&loop=false&delayms=15000)
 SmartRecruiters HackerSpace, Kraków
