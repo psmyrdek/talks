@@ -3,6 +3,9 @@
 ### 08.04.2022 - "Product Engineering - Lessons from Sillicon Valley"
 Koło Naukowe Rozwoju Osobistego - UEK Kraków - Klub Grota 2
 
+### 12.09.2021 - "Product Engineering - Lessons from Sillicon Valley"
+BBDays 4 IT - Bielsko-Biała
+
 ### 01.11.2019 - "Once on production, it's not a broken promise"
 ReactiveConf 2019 (Community Stage) - Prague
 
