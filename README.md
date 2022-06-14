@@ -1,5 +1,8 @@
 # Talks I delivered so far
 
+### 08.04.2022 - "Product Engineering - Lessons from Sillicon Valley"
+Koło Naukowe Rozwoju Osobistego - UEK Kraków - Klub Grota 2
+
 ### 01.11.2019 - "Once on production, it's not a broken promise"
 ReactiveConf 2019 (Community Stage) - Prague
 
