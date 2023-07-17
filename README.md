@@ -1,18 +1,18 @@
 # Talks I delivered so far
 
-### 22.06.2023 - "ChatGPT - More than Google 2.0"
+### 22.06.2023 - "ChatGPT - More than Google 2.0" [PL]
 Future Kraków [Meetup](https://www.meetup.com/future-meetup/events/293781543)
 
-### 14.06.2023 - "AI For Engineers and Product Teams"
+### 14.06.2023 - "AI For Engineers and Product Teams" [EN]
 Cabify Engineering Meetup, Madrid 🇪🇸
 
-### 08.04.2022 - "Product Engineering - Lessons from Sillicon Valley"
+### 08.04.2022 - "Product Engineering - Lessons from Sillicon Valley" [PL]
 Koło Naukowe Rozwoju Osobistego - UEK Kraków - Klub Grota 2
 
-### 12.09.2021 - "Product Engineering - Lessons from Sillicon Valley"
+### 12.09.2021 - "Product Engineering - Lessons from Sillicon Valley" [PL]
 BBDays 4 IT - Bielsko-Biała
 
-### 01.11.2019 - "Once on production, it's not a broken promise"
+### 01.11.2019 - "Once on production, it's not a broken promise" [EN]
 ReactiveConf 2019 (Community Stage) - Prague
 
 ### 04.07.2019 - "Front-End Tooling - Tales, Legends and Myths" - [SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSk6lx0Y5_twMeOZ0gcv-ZafoPaGiD4nNdG5xHE4wIGqmfOVTV7XfbfLqCqr6XPTVxwYn2X68Ujy2bc/pub?start=false&loop=false&delayms=15000)
