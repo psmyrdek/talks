@@ -1,7 +1,7 @@
 # Talks I delivered so far
 
 ### 22.06.2023 - "ChatGPT - More than Google 2.0"
-Future Kraków Meetup
+Future Kraków [Meetup](https://www.meetup.com/future-meetup/events/293781543)
 
 ### 14.06.2023 - "AI For Engineers and Product Teams"
 Cabify Engineering Meetup, Madrid 🇪🇸
