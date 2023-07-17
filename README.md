@@ -1,5 +1,11 @@
 # Talks I delivered so far
 
+### 22.06.2023 - "ChatGPT - More than Google 2.0"
+Future Kraków Meetup
+
+### 14.06.2023 - "AI For Engineers and Product Teams"
+Cabify Engineering Meetup, Madrid 🇪🇸
+
 ### 08.04.2022 - "Product Engineering - Lessons from Sillicon Valley"
 Koło Naukowe Rozwoju Osobistego - UEK Kraków - Klub Grota 2
 
