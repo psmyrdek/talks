@@ -1,5 +1,14 @@
 # Talks I delivered so far
 
+### 06.12.2024 - "No-code, low-code czy AI-code - co zagraża frontend developerom?" [PL]
+Future Conf 2024 - Kraków 
+
+### 12.09.2024 - "No-code, low-code czy AI-code - co zagraża frontend developerom?" [PL]
+BBDays 4 IT - Bielsko-Biała
+
+### 22.05.2024 - "No-code, low-code czy AI-code - co zagraża frontend developerom?" [PL]
+InfoShare 2024 - Gdańsk
+
 ### 22.06.2023 - "ChatGPT - More than Google 2.0" [PL]
 Future Kraków [Meetup](https://www.meetup.com/future-meetup/events/293781543)
 
