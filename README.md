@@ -1,5 +1,10 @@
 # Public Speaking Log
 
+### 21) 27.05.2025 - "Nadchodzi koniec programowania (jakie znamy)" [PL]
+InfoShare 2025 - Gdańsk
+Speakers: Marcin Czarkowski (Przeprogramowani), Przemek Smyrdek (Przeprogramowani)
+Stage: DEV ARCHITECTURE STAGE
+
 ### 20) 06.12.2024 - "No-code, low-code czy AI-code - co zagraża frontend developerom?" [PL]
 Future Conf 2024 - Kraków 
 
